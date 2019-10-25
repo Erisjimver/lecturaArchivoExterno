@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecturaArchivoExterno", "LecturaArchivoExterno\LecturaArchivoExterno.csproj", "{161C6BF0-0D79-4277-8F79-A8A0A2FD957F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161C6BF0-0D79-4277-8F79-A8A0A2FD957F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161C6BF0-0D79-4277-8F79-A8A0A2FD957F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161C6BF0-0D79-4277-8F79-A8A0A2FD957F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161C6BF0-0D79-4277-8F79-A8A0A2FD957F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F739504-43D5-4F35-BAF3-FC756580B3EF}
+	EndGlobalSection
+EndGlobal
