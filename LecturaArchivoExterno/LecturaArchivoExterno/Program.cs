@@ -13,7 +13,7 @@ namespace LecturaArchivoExterno
             {
                 string linea;
                 int contador = 0;
-                string patch = "";
+                string patch = @"C:\Users\Home\Desktop\tirar.txt";
                 archivo = new System.IO.StreamReader(patch);
                 while ((linea = archivo.ReadLine()) != null)
                 {
